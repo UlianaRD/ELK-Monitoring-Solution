@@ -17,7 +17,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
 ![Filebeat](filebeat-playbook.yml)
 
 This document contains the following details:
-- Description of the Topologu
+- Description of the Topology
 - Access Policies
 - ELK Configuration
   - Beats in Use
@@ -26,7 +26,7 @@ This document contains the following details:
 
 ### Description of the Topology
 
-  The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
+  The main purpose of this network is to expose a load-balanced and monitored instance.
 
   Load balancing ensures that the application will be highly available, in addition to restricting access to the network. They are also responsible for efficiently distributing the incoming network traffic to various servers in the network and help to protect the availability of resources. Load balancers protects the system from DDoS attacks by shifting attack traffic across multiple servers. 
 
